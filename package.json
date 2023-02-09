@@ -1,0 +1,22 @@
+{
+  "name": "fsh",
+  "version": "1.0.0",
+  "description": "All in one phishing platform. By using this tool, you agree that I (plabs2) am not liable for any improper use of fsh.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://plabs@github.com/plabs2/fsh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plabs2/fsh/issues"
+  },
+  "homepage": "https://github.com/plabs2/fsh#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
